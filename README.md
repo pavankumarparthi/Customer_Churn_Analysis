@@ -1,4 +1,4 @@
-##  Customer Churn Analysis using Python & SQL Server
+# Customer Churn Analysis using Python & SQL Server
 
 ##  Project Overview
 
