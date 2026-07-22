@@ -10,7 +10,7 @@ The project aims to identify customer churn patterns, analyze customer behavior,
 
 ---
 
-#  Business Objectives
+##  Business Objectives
 
 The primary objectives of this project are to:
 
@@ -23,7 +23,7 @@ The primary objectives of this project are to:
 
 ---
 
-#  Dataset
+## Dataset
 
 The project uses three relational datasets imported into SQL Server.
 
@@ -37,7 +37,7 @@ The tables were joined using **Customer ID** to create a unified dataset for ana
 
 ---
 
-#  Technologies Used
+## Technologies Used
 
 - Python
 - SQL Server
@@ -50,7 +50,7 @@ The tables were joined using **Customer ID** to create a unified dataset for ana
 
 ---
 
-#  Project Workflow
+## Project Workflow
 
 Excel Dataset
       │
@@ -79,7 +79,7 @@ Visualizations
 Business Insights & Recommendations
 
 
-# Data Cleaning & Preprocessing
+## Data Cleaning & Preprocessing
 
 The following preprocessing steps were performed to improve data quality:
 
@@ -95,7 +95,7 @@ The following preprocessing steps were performed to improve data quality:
 
 ---
 
-# Feature Engineering
+## Feature Engineering
 
 Several business-ready features were created during the analysis:
 
@@ -110,7 +110,7 @@ These engineered features enabled more meaningful KPI calculations and customer 
 
 ---
 
-# Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 The project measures several business KPIs, including:
 
@@ -130,7 +130,7 @@ The project measures several business KPIs, including:
 
 ---
 
-# Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 The project includes multiple visualizations to understand customer behavior and churn patterns.
 
@@ -146,7 +146,7 @@ Visualizations include:
 
 ---
 
-# Key Insights
+## Key Insights
 
 - Customers with higher churn scores were significantly more likely to cancel their subscriptions.
 - Monthly subscription plans showed higher churn compared to annual plans.
@@ -157,7 +157,7 @@ Visualizations include:
 
 ---
 
-# Business Recommendations
+## Business Recommendations
 
 Based on the analysis, the following recommendations are proposed:
 
@@ -169,7 +169,7 @@ Based on the analysis, the following recommendations are proposed:
 - Continuously monitor customer feedback and service quality to improve overall customer satisfaction.
 ---
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 This project demonstrates practical experience in:
 
@@ -187,7 +187,7 @@ This project demonstrates practical experience in:
 
 ---
 
-# Project Outcome
+## Project Outcome
 
 This project demonstrates a complete end-to-end customer churn analysis workflow, starting from SQL Server data integration and progressing through data cleaning, feature engineering, exploratory data analysis, KPI reporting, and visualization.
 
